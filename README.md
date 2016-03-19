@@ -46,5 +46,5 @@ map.html 會抓取由FetchServer.js 整理好的json格式資料，展現於地�
 
 成果展現
 ------
-http://3203.info
+http://g0vairmap.3203.info/
 
